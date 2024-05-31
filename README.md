@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, I am Arjune Sarkar
 #### I am a web developer
 ![I am a web developer](https://media.licdn.com/dms/image/D5616AQFWeaRB7rE8XA/profile-displaybackgroundimage-shrink_350_1400/0/1716114910458?e=1722470400&v=beta&t=Qhtlp2zmxxiQhdJiWW607tStUmYj4ndSsD6INc_gxXw)
@@ -24,6 +23,6 @@ Skills:  REACT / JS / HTML / CSS/Node
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/arjunesarkar)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/arjunesarkar)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) 
 
 
