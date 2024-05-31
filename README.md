@@ -21,7 +21,8 @@ Skills:  REACT / JS / HTML / CSS/Node
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/arjunesarkar/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/arjunesarkar)  
+[![GitHub metrics](https://metrics.lecoq.io/https://github.com/arjunesarkar)](https://img.shields.io/github/issues-pr/:user/:repo
+)  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) 
 
