@@ -17,8 +17,7 @@ Skills:  REACT / JS / HTML / CSS/Node
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/arjunesarkar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/arjunesarkar&show_icons=true&count_private=true)  
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/arjunesarkar/contributions?format=svg&private=true)  
 
 [![GitHub metrics](https://metrics.lecoq.io/https://github.com/arjunesarkar)](https://img.shields.io/github/issues-pr/:user/:repo
